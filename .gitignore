@@ -9,6 +9,7 @@ build/
 
 # Generated report history
 server/history/reports.json
+server/.env
 
 *.log
 npm-debug.log*
