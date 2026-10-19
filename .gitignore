@@ -1,0 +1,17 @@
+# Secrets — contains SMTP password and GEMINI_API_KEY
+.env
+.env.*
+!.env.example
+
+node_modules/
+dist/
+build/
+
+# Generated report history
+server/history/reports.json
+
+*.log
+npm-debug.log*
+
+.DS_Store
+Thumbs.db
